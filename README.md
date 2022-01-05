@@ -21,4 +21,4 @@
 
 [![Maurocksantos](https://starchart.cc/Maurocksantos/{repo}.svg)]()
 
-![Snake animation](https://github.com/maurocksantos/maurocksantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Maurocksantos/Maurocksantos/blob/output/github-contribution-grid-snake.svg)
