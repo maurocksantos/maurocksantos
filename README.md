@@ -17,8 +17,9 @@
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](link)
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 ---
-![Maurocksantos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maurocksantos&theme=blue-green)
+![maurocksantos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maurocksantos&theme=blue-green)
+<div>
+  [![maurocksantos](https://starchart.cc/maurocksantos/{repo}.svg)]()
 
-[![Maurocksantos](https://starchart.cc/Maurocksantos/{repo}.svg)]()
-
-![Snake animation](https://github.com/Maurocksantos/Maurocksantos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/maurocksantos/maurocksantos/blob/output/github-contribution-grid-snake.svg)
+</div>
