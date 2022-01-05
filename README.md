@@ -20,3 +20,5 @@
 ![Maurocksantos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maurocksantos&theme=blue-green)
 
 [![Maurocksantos](https://starchart.cc/Maurocksantos/{repo}.svg)]()
+
+![Snake animation](https://github.com/maurocksantos/maurocksantos/blob/output/github-contribution-grid-snake.svg)
