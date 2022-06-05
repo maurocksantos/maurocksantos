@@ -20,8 +20,10 @@
 ![maurocksantos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maurocksantos&theme=blue-green)
 <div>
   ![maurocksantos GitHub stats](https://starchart.cc/{maurock}/{repo}.svg)
+  
 ---
-    ## 📊 My Github Stats
+  
+## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/maurocksantos/github-readme-stats"><img alt="maurock's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maurocksantos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
