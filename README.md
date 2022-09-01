@@ -32,13 +32,13 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
+ <br/>
+ <br/>
 
 <a href="https://github.com/maurocksantos/github-readme-activity-graph"><img alt="maurock's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maurocksantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
+ <br/>
+ <br/>
 ---
   ![Snake animation](https://github.com/maurocksantos/maurocksantos/blob/output/github-contribution-grid-snake.svg)
-</div>
+ </div>
